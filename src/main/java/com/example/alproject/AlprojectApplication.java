@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class AlprojectApplication {
     @GetMapping("/main")
     public String welcome(){
-        return "welcome to javatechie ";
+        return "welcome to Sadi ";
     }
 
     public static void main(String[] args) {
